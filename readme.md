@@ -11,4 +11,8 @@ Hello! I'm ergolyam, a passionate developer from Russia with a strong focus on P
 - GitHub: [ergolyam](https://github.com/ergolyam)
 - Telegram: [@ergolyam](https://t.me/ergolyam)
 
+### Resume
+
+- DevOps: [devops.md](resume/devops.md)
+
 ![ergolyam's GitHub Profile views](https://komarev.com/ghpvc/?username=ergolyam&color=orange&style=plastic)
